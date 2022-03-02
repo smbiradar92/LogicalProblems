@@ -1,1 +1,1 @@
-bin/
+git rm --cached bin/
